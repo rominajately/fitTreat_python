@@ -1,0 +1,85 @@
+Existing Node app structure:
+
+Config:
+	- userId
+	- password
+	- cryptrKey
+	- port
+	- database
+	- s3URL
+	
+	- PassportJS auth config for Local strategy
+
+
+MongoDB collections:
+	- AppData
+	- Meal
+	- Medicine
+	- Symptom
+	- User
+
+
+Public assets:
+	- passwordReset/logo.png
+	- passwordReset/passwordReset.html
+	- passwordReset/passwordChangeSuccess.html
+	- passwordReset/passwordLinkExpired.html
+	- mealData.xlsx
+	- medicineData.json
+	- SymptomsData.json
+
+
+Routes:
+	- /auth
+		- /test
+		- /register
+		- /login
+		
+	- /api
+		- /loggedInUser/:id
+		- /changePassword/:email
+		- /passwordResetRedirect
+		- /resetPassword
+		- /readMessage/:docId/:msgId
+		- /targetWeight
+		- /reloadMessages/:id
+		- /updateProfile
+		- /photoUpdate
+		- /getMeals/:userId
+		- /filterMeals/:type/:foodPref/:userId
+		- /initialSymptoms
+		- /searchSymptoms/:searchParam
+		- /getAppData
+		- /sendMsgToAdmin
+		
+	- /admin
+		- /editAppData/:id
+		- /addMeals
+		- /addNewMeal
+		- /updateMeal/:id
+		- /deleteMeal/:id
+		- /getMealsList
+		- /addMedicines
+		- /addNewMedicine
+		- /getAllMeds
+		- /deleteMeds
+		- /addSymptoms
+		- /addNewSymptom
+		- /getAllSymptoms
+		- /deleteSymptopms
+		- /dbStats
+		- /templateDownload/:name
+		- /deleteCollection/:name
+		- /clearDB
+
+Python counterparts:
+	- ? MongoEngine / PyMongo: for MongoDB ORM in place of Mongoose
+	- Flask: for RESTful API creation in place of Express
+	- ? Flask-MongoEngine: 
+	- Flask-Admin: for creating CRUD views for MongoDB collections
+	- Flask-Bcrypt: 
+	- Flask-Cors: 
+	- ? Flask-Heroku: 
+	- ? Flask-Login / Flask-Principal / Flask-Security / Flask-User: 
+	- ? Flask-Mail: 
+	

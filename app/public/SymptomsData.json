@@ -1,0 +1,1042 @@
+[
+{
+	"symptom": {
+		"name": "Fever"
+	},
+	"medicines": [{
+		"Name": "8-HOUR BAYER",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "ACEPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "ACETAMINOPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "ADVIL COLD AND SINUS",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL CONGESTION RELIEF",
+		"Ingredients": ["IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL LIQUI-GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ALEVE-D SINUS & COLD",
+		"Ingredients": ["NAPROXEN SODIUM", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALEVE",
+		"Ingredients": ["NAPROXEN SODIUM"]
+	}, {
+		"Name": "ALEVE PM",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE", " NAPROXEN SODIUM"]
+	}, {
+		"Name": "CHILDREN'S ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "CHILDREN'S ADVIL COLD",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, 
+{
+	"symptom": {
+		"name": "Pain"
+	},
+	"medicines": [{
+		"Name": "8-HOUR BAYER",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "ACETAMINOPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL LIQUI-GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL MIGRAINE LIQUI-GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL PM",
+		"Ingredients": ["DIPHENHYDRAMINE CITRATE", " IBUPROFEN"]
+	}, {
+		"Name": "ALEVE-D SINUS & COLD",
+		"Ingredients": ["NAPROXEN SODIUM", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALEVE",
+		"Ingredients": ["NAPROXEN SODIUM"]
+	}, {
+		"Name": "ALEVE PM",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE", " NAPROXEN SODIUM"]
+	}, {
+		"Name": "BENADRYL",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE"]
+	}, {
+		"Name": "CALDOLOR",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CAP-PROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "CHILDREN'S ADVIL COLD",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "CHILDREN'S ELIXSURE",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S IBUPROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S MOTRIN COLD",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "CHILDREN'S MOTRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "COMBUNOX",
+		"Ingredients": ["IBUPROFEN", " OXYCODONE HYDROCHLORIDE"]
+	}, {
+		"Name": "EC-NAPROSYN",
+		"Ingredients": ["NAPROXEN"]
+	}, {
+		"Name": "IBU",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBUPRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBUPROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBUPROHM",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBU-TAB 200",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBU-TAB",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "JUNIOR STRENGTH ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "JUNIOR STRENGTH IBUPROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "JUNIOR STRENGTH MOTRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MEDIPREN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MIDOL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MIDOL LIQUID GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MOTRIN IB",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MOTRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MOTRIN MIGRAINE PAIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "NAPROSYN",
+		"Ingredients": ["NAPROXEN"]
+	}, {
+		"Name": "NAPROXEN",
+		"Ingredients": ["NAPROXEN"]
+	}, {
+		"Name": "NUPRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "PEDIATRIC ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "PROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "RUFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "TAB-PROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "TYLENOL ",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "TYLENOL",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 1",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 2",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 3",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 4",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "VICOPROFEN",
+		"Ingredients": ["HYDROCODONE BITARTRATE", " IBUPROFEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Toothaches"
+	},
+	"medicines": [{
+		"Name": "8-HOUR BAYER",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "ACEPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Cold"
+	},
+	"medicines": [{
+		"Name": "8-HOUR BAYER",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "CHILDREN'S ADVIL COLD",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Headache"
+	},
+	"medicines": [{
+		"Name": "8-HOUR BAYER",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "ACEPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "ACHES-N-PAIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL CONGESTION RELIEF",
+		"Ingredients": ["IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Severe Acne"
+	},
+	"medicines": [{
+		"Name": "ACCUTANE",
+		"Ingredients": ["ISOTRETINOIN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Hypertension"
+	},
+	"medicines": [{
+		"Name": "ACEBUTOLOL HYDROCHLORIDE",
+		"Ingredients": ["ACEBUTOLOL HYDROCHLORIDE"]
+	}, {
+		"Name": "ACEON",
+		"Ingredients": ["PERINDOPRIL ERBUMINE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Arrhythmias"
+	},
+	"medicines": [{
+		"Name": "ACEBUTOLOL HYDROCHLORIDE",
+		"Ingredients": ["ACEBUTOLOL HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "High Blood Pressure"
+	},
+	"medicines": [{
+		"Name": "ACEBUTOLOL HYDROCHLORIDE",
+		"Ingredients": ["ACEBUTOLOL HYDROCHLORIDE"]
+	}, {
+		"Name": "ACEON",
+		"Ingredients": ["PERINDOPRIL ERBUMINE"]
+	}, {
+		"Name": "ADALAT CC",
+		"Ingredients": ["NIFEDIPINE"]
+	}, {
+		"Name": "ALDACTONE",
+		"Ingredients": ["SPIRONOLACTONE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Menstrual Aches"
+	},
+	"medicines": [{
+		"Name": "ACEPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Backaches"
+	},
+	"medicines": [{
+		"Name": "ACEPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Swelling"
+	},
+	"medicines": [{
+		"Name": "ACETAMINOPHEN",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL LIQUI-GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL MIGRAINE LIQUI-GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ASPIRIN",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "BAYER EXTRA STRENGTH ASPIRIN FOR MIGRAINE PAIN",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "CALDOLOR",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CAP-PROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S ADVIL-FLAVORED",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S ELIXSURE",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S IBUPROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "CHILDREN'S MOTRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "COMBUNOX",
+		"Ingredients": ["IBUPROFEN", " OXYCODONE HYDROCHLORIDE"]
+	}, {
+		"Name": "DURLAZA",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "EC-NAPROSYN",
+		"Ingredients": ["NAPROXEN"]
+	}, {
+		"Name": "IBU",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBUPRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBUPROHM",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBU-TAB 200",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "IBU-TAB",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "INFANTS' FEVERALL",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "INJECTAPAP",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "JUNIOR STRENGTH ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "JUNIOR STRENGTH IBUPROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "JUNIOR STRENGTH MOTRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MEASURIN",
+		"Ingredients": ["ASPIRIN"]
+	}, {
+		"Name": "MEDIPREN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MIDOL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MIDOL LIQUID GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MOTRIN IB",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MOTRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "MOTRIN MIGRAINE PAIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "NAPROSYN",
+		"Ingredients": ["NAPROXEN"]
+	}, {
+		"Name": "NAPROXEN",
+		"Ingredients": ["NAPROXEN"]
+	}, {
+		"Name": "NEOPAP",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "NUPRIN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "OFIRMEV",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "PEDIATRIC ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "PROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "RUFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "TAB-PROFEN",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "TYLENOL ",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "TYLENOL",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 1",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 2",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 3",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 4",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Ear infection"
+	},
+	"medicines": [{
+		"Name": "ACETASOL HC",
+		"Ingredients": ["ACETIC ACID"]
+	}]
+}, {
+	"symptom": {
+		"name": "Blood Sugar"
+	},
+	"medicines": [{
+		"Name": "ACETYLCYSTEINE",
+		"Ingredients": ["ACETYLCYSTEINE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Dental Pain"
+	},
+	"medicines": [{
+		"Name": "ACHES-N-PAIN",
+		"Ingredients": ["IBUPROFEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Menstrual Cramps"
+	},
+	"medicines": [{
+		"Name": "ACHES-N-PAIN",
+		"Ingredients": ["IBUPROFEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Muscle Aches"
+	},
+	"medicines": [{
+		"Name": "ACHES-N-PAIN",
+		"Ingredients": ["IBUPROFEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Arthritis"
+	},
+	"medicines": [{
+		"Name": "ACHES-N-PAIN",
+		"Ingredients": ["IBUPROFEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Severe Combined Immunodeficiency Disease (SCID)"
+	},
+	"medicines": [{
+		"Name": "ADAGEN",
+		"Ingredients": ["PEGADEMASE BOVINE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Chest Pain"
+	},
+	"medicines": [{
+		"Name": "ADALAT CC",
+		"Ingredients": ["NIFEDIPINE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Allergy"
+	},
+	"medicines": [{
+		"Name": "ADVIL ALLERGY AND CONGESTION RELIEF",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+	}, {
+		"Name": "CHILDREN'S ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Nasal Congestion"
+	},
+	"medicines": [{
+		"Name": "ADVIL ALLERGY AND CONGESTION RELIEF",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL COLD AND SINUS",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL CONGESTION RELIEF",
+		"Ingredients": ["IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Cough"
+	},
+	"medicines": [{
+		"Name": "ADVIL ALLERGY AND CONGESTION RELIEF",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL COLD AND SINUS",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL LIQUI-GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL MIGRAINE LIQUI-GELS",
+		"Ingredients": ["IBUPROFEN"]
+	}, {
+		"Name": "ADVIL PM",
+		"Ingredients": ["DIPHENHYDRAMINE CITRATE", " IBUPROFEN"]
+	}, {
+		"Name": "GUAIFENESIN",
+		"Ingredients": ["GUAIFENESIN"]
+	}, {
+		"Name": "MUCINEX D",
+		"Ingredients": ["GUAIFENESIN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "MUCINEX DM",
+		"Ingredients": ["DEXTROMETHORPHAN HYDROBROMIDE", " GUAIFENESIN"]
+	}, {
+		"Name": "MUCINEX",
+		"Ingredients": ["GUAIFENESIN"]
+	}, {
+		"Name": "TYLENOL ",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "TYLENOL",
+		"Ingredients": ["ACETAMINOPHEN"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 1",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 2",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 3",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}, {
+		"Name": "TYLENOL W/ CODEINE NO. 4",
+		"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Runny Nose"
+	},
+	"medicines": [{
+		"Name": "ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA ALLERGY",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Sneezing"
+	},
+	"medicines": [{
+		"Name": "ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA ALLERGY",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Itchy/Watery Eyes"
+	},
+	"medicines": [{
+		"Name": "ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA ALLERGY",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Sinus Pressure"
+	},
+	"medicines": [{
+		"Name": "ADVIL COLD AND SINUS",
+		"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ADVIL CONGESTION RELIEF",
+		"Ingredients": ["IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Nasal Swelling"
+	},
+	"medicines": [{
+		"Name": "ADVIL CONGESTION RELIEF",
+		"Ingredients": ["IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Sleep Aid"
+	},
+	"medicines": [{
+		"Name": "ADVIL PM",
+		"Ingredients": ["DIPHENHYDRAMINE CITRATE", " IBUPROFEN"]
+	}, {
+		"Name": "ALEVE PM",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE", " NAPROXEN SODIUM"]
+	}]
+}, {
+	"symptom": {
+		"name": "Attention Deficit Hyperactivity Disorder (ADHD) "
+	},
+	"medicines": [{
+		"Name": "ADZENYS ER",
+		"Ingredients": ["AMPHETAMINE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Nausea"
+	},
+	"medicines": [{
+		"Name": "AEROSEB-DEX",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "APREPITANT",
+		"Ingredients": ["APREPITANT"]
+	}, {
+		"Name": "ATIVAN",
+		"Ingredients": ["LORAZEPAM"]
+	}, {
+		"Name": "CINVANTI",
+		"Ingredients": ["APREPITANT"]
+	}, {
+		"Name": "DECADERM",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "DECADRON",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "DECASPRAY",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "DEXONE 0.5",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "DEXONE 0.75",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "DEXONE 1.5",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "DEXONE 4",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "DEXYCU",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "EMEND",
+		"Ingredients": ["APREPITANT"]
+	}, {
+		"Name": "FAMOTIDINE",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "FAMOTIDINE PRESERVATIVE FREE",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "FAMOTIDINE PRESERVATIVE FREE IN PLASTIC CONTAINER",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "FAMOTIDINE PRESERVATIVE FREE (PHARMACY BULK)",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "FLUXID",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "HEXADROL",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "LORAZEPAM INTENSOL",
+		"Ingredients": ["LORAZEPAM"]
+	}, {
+		"Name": "LORAZEPAM",
+		"Ingredients": ["LORAZEPAM"]
+	}, {
+		"Name": "LORAZEPAM PRESERVATIVE FREE",
+		"Ingredients": ["LORAZEPAM"]
+	}, {
+		"Name": "LORAZ",
+		"Ingredients": ["LORAZEPAM"]
+	}, {
+		"Name": "ONDANSETRON",
+		"Ingredients": ["ONDANSETRON"]
+	}, {
+		"Name": "OZURDEX",
+		"Ingredients": ["DEXAMETHASONE"]
+	}, {
+		"Name": "PEPCID AC ",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "PEPCID AC",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "PEPCID",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "PEPCID PRESERVATIVE FREE",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "PEPCID PRESERVATIVE FREE IN PLASTIC CONTAINER",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "PEPCID RPD",
+		"Ingredients": ["FAMOTIDINE"]
+	}, {
+		"Name": "RANITIDINE",
+		"Ingredients": ["RANITIDINE"]
+	}, {
+		"Name": "SANCUSO",
+		"Ingredients": ["GRANISETRON"]
+	}, {
+		"Name": "SUSTOL",
+		"Ingredients": ["GRANISETRON"]
+	}, {
+		"Name": "ZOFRAN ODT",
+		"Ingredients": ["ONDANSETRON"]
+	}, {
+		"Name": "ZUPLENZ",
+		"Ingredients": ["ONDANSETRON"]
+	}]
+}, {
+	"symptom": {
+		"name": "Anal Warts"
+	},
+	"medicines": [{
+		"Name": "ALDARA",
+		"Ingredients": ["IMIQUIMOD"]
+	}]
+}, {
+	"symptom": {
+		"name": "Itchy Nose"
+	},
+	"medicines": [{
+		"Name": "ALLEGRA ALLERGY",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Itchy Throat"
+	},
+	"medicines": [{
+		"Name": "ALLEGRA ALLERGY",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Sinus Congestion"
+	},
+	"medicines": [{
+		"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
+		"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}, {
+		"Name": "CHILDREN'S ADVIL ALLERGY SINUS",
+		"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Muscle Spasms"
+	},
+	"medicines": [{
+		"Name": "BACLOFEN",
+		"Ingredients": ["BACLOFEN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Urinary Tract Infection"
+	},
+	"medicines": [{
+		"Name": "BACTRIM",
+		"Ingredients": ["SULFAMETHOXAZOLE", " TRIMETHOPRIM"]
+	}]
+}, {
+	"symptom": {
+		"name": "Diarrhea"
+	},
+	"medicines": [{
+		"Name": "BACTRIM",
+		"Ingredients": ["SULFAMETHOXAZOLE", " TRIMETHOPRIM"]
+	}]
+}, {
+	"symptom": {
+		"name": "Skin Irritation"
+	},
+	"medicines": [{
+		"Name": "BACTROBAN",
+		"Ingredients": ["MUPIROCIN"]
+	}, {
+		"Name": "BETA-HC",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CALMURID HC",
+		"Ingredients": ["HYDROCORTISONE", " UREA"]
+	}, {
+		"Name": "CETACORT",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "COLOCORT",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORT-DOME",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORTEF",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORTENEMA",
+		"Ingredients": ["HYDROCORTISONE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Skin Itchiness"
+	},
+	"medicines": [{
+		"Name": "BACTROBAN",
+		"Ingredients": ["MUPIROCIN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Skin Infection"
+	},
+	"medicines": [{
+		"Name": "BACTROBAN",
+		"Ingredients": ["MUPIROCIN"]
+	}]
+}, {
+	"symptom": {
+		"name": "Insect Bite"
+	},
+	"medicines": [{
+		"Name": "BENADRYL",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Cuts"
+	},
+	"medicines": [{
+		"Name": "BENADRYL",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Burns"
+	},
+	"medicines": [{
+		"Name": "BENADRYL",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Poison Ivy"
+	},
+	"medicines": [{
+		"Name": "BENADRYL",
+		"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Itch"
+	},
+	"medicines": [{
+		"Name": "BETA-HC",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CALMURID HC",
+		"Ingredients": ["HYDROCORTISONE", " UREA"]
+	}, {
+		"Name": "CETACORT",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "COLOCORT",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORT-DOME",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORTEF",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORTENEMA",
+		"Ingredients": ["HYDROCORTISONE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Rash"
+	},
+	"medicines": [{
+		"Name": "BETA-HC",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CALMURID HC",
+		"Ingredients": ["HYDROCORTISONE", " UREA"]
+	}, {
+		"Name": "CETACORT",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "COLOCORT",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORT-DOME",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORTEF",
+		"Ingredients": ["HYDROCORTISONE"]
+	}, {
+		"Name": "CORTENEMA",
+		"Ingredients": ["HYDROCORTISONE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Osteoporosis"
+	},
+	"medicines": [{
+		"Name": "BONIVA",
+		"Ingredients": ["IBANDRONATE SODIUM"]
+	}]
+}, {
+	"symptom": {
+		"name": "Nausea (ONLY FOR PREGNANT WOMEN)"
+	},
+	"medicines": [{
+		"Name": "BONJESTA",
+		"Ingredients": ["DOXYLAMINE SUCCINATE", " PYRIDOXINE HYDROCHLORIDE"]
+	}]
+}, {
+	"symptom": {
+		"name": "Dry Eyes"
+	},
+	"medicines": [{
+		"Name": "CYCLOSPORINE",
+		"Ingredients": ["CYCLOSPORINE"]
+	}, {
+		"Name": "GENGRAF",
+		"Ingredients": ["CYCLOSPORINE"]
+	}, {
+		"Name": "NEORAL",
+		"Ingredients": ["CYCLOSPORINE"]
+	}, {
+		"Name": "RESTASIS",
+		"Ingredients": ["CYCLOSPORINE"]
+	}, {
+		"Name": "RESTASIS MULTIDOSE",
+		"Ingredients": ["CYCLOSPORINE"]
+	}, {
+		"Name": "SANDIMMUNE",
+		"Ingredients": ["CYCLOSPORINE"]
+	}]
+}]

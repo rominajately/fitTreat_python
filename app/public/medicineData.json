@@ -1,0 +1,415 @@
+[{
+	"Name": "8-HOUR BAYER",
+	"Ingredients": ["ASPIRIN"]
+}, {
+	"Name": "ACCUTANE",
+	"Ingredients": ["ISOTRETINOIN"]
+}, {
+	"Name": "ACEBUTOLOL HYDROCHLORIDE",
+	"Ingredients": ["ACEBUTOLOL HYDROCHLORIDE"]
+}, {
+	"Name": "ACEON",
+	"Ingredients": ["PERINDOPRIL ERBUMINE"]
+}, {
+	"Name": "ACEPHEN",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "ACETAMINOPHEN",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "ACETASOL HC",
+	"Ingredients": ["ACETIC ACID"]
+}, {
+	"Name": "ACETYLCYSTEINE",
+	"Ingredients": ["ACETYLCYSTEINE"]
+}, {
+	"Name": "ACHES-N-PAIN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "ADAGEN",
+	"Ingredients": ["PEGADEMASE BOVINE"]
+}, {
+	"Name": "ADALAT CC",
+	"Ingredients": ["NIFEDIPINE"]
+}, {
+	"Name": "ADVIL ALLERGY AND CONGESTION RELIEF",
+	"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+}, {
+	"Name": "ADVIL ALLERGY SINUS",
+	"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "ADVIL COLD AND SINUS",
+	"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "ADVIL CONGESTION RELIEF",
+	"Ingredients": ["IBUPROFEN", " PHENYLEPHRINE HYDROCHLORIDE"]
+}, {
+	"Name": "ADVIL",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "ADVIL LIQUI-GELS",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "ADVIL MIGRAINE LIQUI-GELS",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "ADVIL PM",
+	"Ingredients": ["DIPHENHYDRAMINE CITRATE", " IBUPROFEN"]
+}, {
+	"Name": "ADZENYS ER",
+	"Ingredients": ["AMPHETAMINE"]
+}, {
+	"Name": "AEROSEB-DEX",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "ALDACTONE",
+	"Ingredients": ["SPIRONOLACTONE"]
+}, {
+	"Name": "ALDARA",
+	"Ingredients": ["IMIQUIMOD"]
+}, {
+	"Name": "ALEVE-D SINUS & COLD",
+	"Ingredients": ["NAPROXEN SODIUM", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "ALEVE",
+	"Ingredients": ["NAPROXEN SODIUM"]
+}, {
+	"Name": "ALEVE PM",
+	"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE", " NAPROXEN SODIUM"]
+}, {
+	"Name": "ALLEGRA ALLERGY",
+	"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+}, {
+	"Name": "ALLEGRA-D 12 HOUR ALLERGY AND CONGESTION",
+	"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "ALLEGRA-D 24 HOUR ALLERGY AND CONGESTION",
+	"Ingredients": ["FEXOFENADINE HYDROCHLORIDE", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "ALLEGRA",
+	"Ingredients": ["FEXOFENADINE HYDROCHLORIDE"]
+}, {
+	"Name": "APREPITANT",
+	"Ingredients": ["APREPITANT"]
+}, {
+	"Name": "ASPIRIN",
+	"Ingredients": ["ASPIRIN"]
+}, {
+	"Name": "ATIVAN",
+	"Ingredients": ["LORAZEPAM"]
+}, {
+	"Name": "BACLOFEN",
+	"Ingredients": ["BACLOFEN"]
+}, {
+	"Name": "BACTRIM",
+	"Ingredients": ["SULFAMETHOXAZOLE", " TRIMETHOPRIM"]
+}, {
+	"Name": "BACTROBAN",
+	"Ingredients": ["MUPIROCIN"]
+}, {
+	"Name": "BAYER EXTRA STRENGTH ASPIRIN FOR MIGRAINE PAIN",
+	"Ingredients": ["ASPIRIN"]
+}, {
+	"Name": "BENADRYL",
+	"Ingredients": ["DIPHENHYDRAMINE HYDROCHLORIDE"]
+}, {
+	"Name": "BETA-HC",
+	"Ingredients": ["HYDROCORTISONE"]
+}, {
+	"Name": "BONIVA",
+	"Ingredients": ["IBANDRONATE SODIUM"]
+}, {
+	"Name": "BONJESTA",
+	"Ingredients": ["DOXYLAMINE SUCCINATE", " PYRIDOXINE HYDROCHLORIDE"]
+}, {
+	"Name": "CALDOLOR",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "CALMURID HC",
+	"Ingredients": ["HYDROCORTISONE", " UREA"]
+}, {
+	"Name": "CAP-PROFEN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "CETACORT",
+	"Ingredients": ["HYDROCORTISONE"]
+}, {
+	"Name": "CHILDREN'S ADVIL ALLERGY SINUS",
+	"Ingredients": ["CHLORPHENIRAMINE MALEATE", " IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "CHILDREN'S ADVIL COLD",
+	"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "CHILDREN'S ADVIL-FLAVORED",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "CHILDREN'S ADVIL",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "CHILDREN'S ELIXSURE",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "CHILDREN'S IBUPROFEN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "CHILDREN'S MOTRIN COLD",
+	"Ingredients": ["IBUPROFEN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "CHILDREN'S MOTRIN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "CINVANTI",
+	"Ingredients": ["APREPITANT"]
+}, {
+	"Name": "COLOCORT",
+	"Ingredients": ["HYDROCORTISONE"]
+}, {
+	"Name": "COMBUNOX",
+	"Ingredients": ["IBUPROFEN", " OXYCODONE HYDROCHLORIDE"]
+}, {
+	"Name": "CORT-DOME",
+	"Ingredients": ["HYDROCORTISONE"]
+}, {
+	"Name": "CORTEF",
+	"Ingredients": ["HYDROCORTISONE"]
+}, {
+	"Name": "CORTENEMA",
+	"Ingredients": ["HYDROCORTISONE"]
+}, {
+	"Name": "CYCLOSPORINE",
+	"Ingredients": ["CYCLOSPORINE"]
+}, {
+	"Name": "DECADERM",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DECADRON",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DECASPRAY",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DEXONE 0.5",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DEXONE 0.75",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DEXONE 1.5",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DEXONE 4",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DEXYCU",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "DURLAZA",
+	"Ingredients": ["ASPIRIN"]
+}, {
+	"Name": "EC-NAPROSYN",
+	"Ingredients": ["NAPROXEN"]
+}, {
+	"Name": "EMEND",
+	"Ingredients": ["APREPITANT"]
+}, {
+	"Name": "FAMOTIDINE",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "FAMOTIDINE PRESERVATIVE FREE",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "FAMOTIDINE PRESERVATIVE FREE IN PLASTIC CONTAINER",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "FAMOTIDINE PRESERVATIVE FREE (PHARMACY BULK)",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "FLUXID",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "GENGRAF",
+	"Ingredients": ["CYCLOSPORINE"]
+}, {
+	"Name": "GUAIFENESIN",
+	"Ingredients": ["GUAIFENESIN"]
+}, {
+	"Name": "HEXADROL",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "IBU",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "IBUPRIN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "IBUPROFEN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "IBUPROHM",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "IBU-TAB 200",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "IBU-TAB",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "INFANTS' FEVERALL",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "INJECTAPAP",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "JUNIOR STRENGTH ADVIL",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "JUNIOR STRENGTH IBUPROFEN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "JUNIOR STRENGTH MOTRIN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "LORAZEPAM INTENSOL",
+	"Ingredients": ["LORAZEPAM"]
+}, {
+	"Name": "LORAZEPAM",
+	"Ingredients": ["LORAZEPAM"]
+}, {
+	"Name": "LORAZEPAM PRESERVATIVE FREE",
+	"Ingredients": ["LORAZEPAM"]
+}, {
+	"Name": "LORAZ",
+	"Ingredients": ["LORAZEPAM"]
+}, {
+	"Name": "MEASURIN",
+	"Ingredients": ["ASPIRIN"]
+}, {
+	"Name": "MEDIPREN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "MIDOL",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "MIDOL LIQUID GELS",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "MOTRIN IB",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "MOTRIN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "MOTRIN MIGRAINE PAIN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "MUCINEX D",
+	"Ingredients": ["GUAIFENESIN", " PSEUDOEPHEDRINE HYDROCHLORIDE"]
+}, {
+	"Name": "MUCINEX DM",
+	"Ingredients": ["DEXTROMETHORPHAN HYDROBROMIDE", " GUAIFENESIN"]
+}, {
+	"Name": "MUCINEX",
+	"Ingredients": ["GUAIFENESIN"]
+}, {
+	"Name": "NAPROSYN",
+	"Ingredients": ["NAPROXEN"]
+}, {
+	"Name": "NAPROXEN",
+	"Ingredients": ["NAPROXEN"]
+}, {
+	"Name": "NEOPAP",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "NEORAL",
+	"Ingredients": ["CYCLOSPORINE"]
+}, {
+	"Name": "NUPRIN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "OFIRMEV",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "ONDANSETRON",
+	"Ingredients": ["ONDANSETRON"]
+}, {
+	"Name": "OZURDEX",
+	"Ingredients": ["DEXAMETHASONE"]
+}, {
+	"Name": "PEDIATRIC ADVIL",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "PEPCID AC ",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "PEPCID AC",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "PEPCID",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "PEPCID PRESERVATIVE FREE",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "PEPCID PRESERVATIVE FREE IN PLASTIC CONTAINER",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "PEPCID RPD",
+	"Ingredients": ["FAMOTIDINE"]
+}, {
+	"Name": "PROFEN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "RANITIDINE",
+	"Ingredients": ["RANITIDINE"]
+}, {
+	"Name": "RESTASIS",
+	"Ingredients": ["CYCLOSPORINE"]
+}, {
+	"Name": "RESTASIS MULTIDOSE",
+	"Ingredients": ["CYCLOSPORINE"]
+}, {
+	"Name": "RUFEN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "SANCUSO",
+	"Ingredients": ["GRANISETRON"]
+}, {
+	"Name": "SANDIMMUNE",
+	"Ingredients": ["CYCLOSPORINE"]
+}, {
+	"Name": "SUSTOL",
+	"Ingredients": ["GRANISETRON"]
+}, {
+	"Name": "TAB-PROFEN",
+	"Ingredients": ["IBUPROFEN"]
+}, {
+	"Name": "TYLENOL ",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "TYLENOL",
+	"Ingredients": ["ACETAMINOPHEN"]
+}, {
+	"Name": "TYLENOL W/ CODEINE",
+	"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+}, {
+	"Name": "TYLENOL W/ CODEINE NO. 1",
+	"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+}, {
+	"Name": "TYLENOL W/ CODEINE NO. 2",
+	"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+}, {
+	"Name": "TYLENOL W/ CODEINE NO. 3",
+	"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+}, {
+	"Name": "TYLENOL W/ CODEINE NO. 4",
+	"Ingredients": ["ACETAMINOPHEN", " CODEINE PHOSPHATE"]
+}, {
+	"Name": "VICOPROFEN",
+	"Ingredients": ["HYDROCODONE BITARTRATE", " IBUPROFEN"]
+}, {
+	"Name": "ZOFRAN ODT",
+	"Ingredients": ["ONDANSETRON"]
+}, {
+	"Name": "ZUPLENZ",
+	"Ingredients": ["ONDANSETRON"]
+}]

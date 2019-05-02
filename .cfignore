@@ -1,0 +1,10 @@
+__pycache__/
+venv/
+.vscode
+.project
+.pydevproject
+blueprint.txt
+dataModel.json
+log.log
+*.md
+.git/
